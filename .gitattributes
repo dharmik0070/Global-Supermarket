@@ -1,4 +1,5 @@
 *.xml linguist-language=HTML
+*.iml linguist-language=HTML
 *.pyc linguist-language=HTML
 *.html linguist-language=Python
 
