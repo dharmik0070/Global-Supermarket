@@ -7,12 +7,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="csrf-token" content="kmapods5wQ5L1hn7rcR9OPst7EsN0gC7SrHh3m9K" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,300,600,700">
-    <link media="all" type="text/css" rel="stylesheet" href="css/bootstrap.min.css">
-    <link media="all" type="text/css" rel="stylesheet" href="css/style.css?v=1.0">
-    <link media="all" type="text/css" rel="stylesheet" href="css/sidebar-menu.css?v=1.0">
-    <link media="all" type="text/css" rel="stylesheet" href="css/custom.css?v=1.3.3">
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css"> -->
+    <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,300,600,700"> -->
+    <link media="all" type="text/css" rel="stylesheet" href="css/bootstrap.css">
+    <link media="all" type="text/css" rel="stylesheet" href="css/custom-order-style.css">
+    <link media="all" type="text/css" rel="stylesheet" href="css/custom-style.css">
+    <link media="all" type="text/css" rel="stylesheet" href="css/ordersv1-v3.css">
+
+    <!-- <link media="all" type="text/css" rel="stylesheet" href="css/style.css?v=1.0"> -->
+    <!-- <link media="all" type="text/css" rel="stylesheet" href="css/sidebar-menu.css?v=1.0"> -->
+    <!-- <link media="all" type="text/css" rel="stylesheet" href="css/custom.css?v=1.3.3"> -->
 </head>
 
 <body class="tooltips">
@@ -22,10 +26,10 @@
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav visible-lg visible-md limit-chars">
                         <ul class="breadcrumb">
-                            <a href="/ui/base-index.html" class="my-3" style="text-decoration: none; color: lavender;">
+                            <a href="index.html" class="my-3" style="text-decoration: none; color: lavender;">
                                 Global Supermarket 
                             </a>
-                            <a href="index.html" class="my-4 mx-5" style="text-decoration: none; color: lavender; font-size: medium;">
+                            <a href="sales.html" class="my-4 mx-5" style="text-decoration: none; color: lavender; font-size: medium;">
                                 Orders
                             </a>
                             <a href="manage-product.html" class="my-4" style="text-decoration: none; color: lavender; font-size: medium;">
@@ -44,7 +48,7 @@
                     <div class="panel-body pt-0">
                         <div class="row mb-4">
                             <div class="col-sm-12">
-                                <a href="index.html" class="btn btn-sm btn-primary pull-left">
+                                <a href="sales.html" class="btn btn-sm btn-primary pull-left">
                                     Back
                                 </a>
                                 <button type="button" class="btn btn-sm btn-primary pull-right" data-toggle="modal" data-target="#productModal">
@@ -79,20 +83,20 @@
                             <div class="row">
                                 <div class="col-sm-12">
                                     <div class="form-group">
-                                        <label>Name</label>
+                                        <label class="pull-left">Name</label>
                                         <input class="form-control" placeholder="Name" name="name" id="name" type="text" value="" required>
                                     </div>
                                 </div>
                                 <div class="col-sm-12">
                                     <div class="form-group">
-                                        <label>Unit</label>
+                                        <label class="pull-left">Unit</label>
                                         <select name="uoms" id="uoms" class="form-control" required>
                                         </select>
                                     </div>
                                 </div>
                                 <div class="col-sm-12">
                                     <div class="form-group">
-                                        <label>Price Per Unit</label>
+                                        <label class="pull-left">Price Per Unit</label>
                                         <input class="form-control" placeholder="Price Per Unit" name="price" id="price" type="text" value="" required>
                                     </div>
                                 </div>
