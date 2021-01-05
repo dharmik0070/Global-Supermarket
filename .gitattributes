@@ -1,2 +1,4 @@
-*.html linguist-language=Python
-*.html linguist-detectable=true
+*.xml linguist-detectable=true
+*.xml linguistic-language=Python
+*.pyc linguistic-detectable=true
+*.pyc linguistic-language=Python
