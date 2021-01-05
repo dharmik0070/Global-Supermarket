@@ -1,1 +1,2 @@
 *.html linguist-detectable=Python
+*.py linguist-detectable=Python
