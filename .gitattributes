@@ -1,3 +1,3 @@
 *.html linguistic-language=Python
-*.xml linguistic-language=Html
-*.pyc linguistic-language=Html
+*.xml linguistic-language=HTML
+*.pyc linguistic-language=HTML
