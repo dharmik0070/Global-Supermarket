@@ -9,7 +9,7 @@
     <br />
     <a href="#about-the-project"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/dharmik0070/Global-Supermarket/blob/master/Images/Gifs/View%20Demo.gif">View Demo</a>
+    <a href="https://github.com/dharmik0070/Global-Supermarket/blob/master/Images/Gifs/View%20Demo.gif" target="_blank">View Demo</a>
   </p>
 </p>
 <!-- TABLE OF CONTENTS -->
