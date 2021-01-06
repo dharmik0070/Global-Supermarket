@@ -9,7 +9,7 @@
     <br />
     <a href="#about-the-project"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="#about-the-project">View Demo</a>
+    <a href="#view-demo">View Demo</a>
   </p>
 </p>
 <!-- TABLE OF CONTENTS -->
@@ -234,7 +234,6 @@ In this page, overall order details is shown to the Owner.
 <br>
 
 > But it was great brain-stroming and new learning to solve each issue thoroughly, it has really boosted my confidence.
-
 <!-- CONTACT -->
 ## Contact
 
@@ -243,3 +242,11 @@ In this page, overall order details is shown to the Owner.
 E-mail: [dharmik0070@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=dharmik0070@gmail.com)
 <br>
 Project Link: [https://github.com/dharmik0070/Global-Supermarket](https://github.com/dharmik0070/Global-Supermarket)
+<br>
+
+
+# View Demo
+
+![View Demo](https://raw.githubusercontent.com/dharmik0070/Global-Supermarket/master/Images/View%20Demo.png)
+<br>
+
