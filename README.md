@@ -201,6 +201,8 @@ In this page, overall order details is shown to the Owner.
 
 <!-- ![APIsBackend Jsonify](https://raw.githubusercontent.com/dharmik0070/Global-Supermarket/master/Images/Backend%20Jsonify.png) -->
 <img src="https://raw.githubusercontent.com/dharmik0070/Global-Supermarket/master/Images/Backend%20Jsonify.png" alt="" width="100%" height="180">
+
+
 ### Step 5:
 - Configured ***APIs*** communication in frontend using *Javascript* from Step 3.
 
