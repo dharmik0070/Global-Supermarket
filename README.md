@@ -1,5 +1,6 @@
 <p align="center">
   <!-- <a href="https://github.com/github_username/repo_name"> -->
+  <br>
   <a href="https://github.com/dharmik0070/">
     <img src="https://raw.githubusercontent.com/dharmik0070/Global-Supermarket/master/Images/Banner.png" alt="Banner" width="100%" height="100%">
   </a>
@@ -24,13 +25,13 @@
     <li>
       <a href="#how-it-works">How it works</a>
       <ul>
-        <li><a href="#1-uan-entry-pointu">2.1 An Entry Point
+        <li><a href="#1-an-entry-point">2.1 An Entry Point
 </a></li>
-        <li><a href="#2-usalesorder-pageu">2.2 Sales/Order Page
+        <li><a href="#2-salesorder-page">2.2 Sales/Order Page
 </a></li>
-        <li><a href="#3-umanage-products-pageu">2.3 Manage Products Page
+        <li><a href="#3-manage-products-page">2.3 Manage Products Page
 </a></li>
-<li><a href="#4-uplace-order-pageu">2.4 Place Order Page
+<li><a href="#4-place-order-page">2.4 Place Order Page
 </a></li>
       </ul>
     </li>
@@ -185,7 +186,8 @@ In this page, overall order details is shown to the Owner.
 <br>
 - Then chose ***MySQL*** database and created different tables to store and manage details.
 - Included Primary and Foreign constraint accordingly.
-#### Step 2:
+
+### Step 2:
 - Started working with more backend development, chose ***Python*** as a programming language and ***Python Flask*** as Server.
 - Included all the basic modules to insert, update and delete products.
 
@@ -197,8 +199,8 @@ In this page, overall order details is shown to the Owner.
 - Added ***CSS*** to improve UI.
 - Continued Step 2 backend development and started building ***APIs*** of each seperate functionalities.
 
-![APIsBackend Jsonify](https://raw.githubusercontent.com/dharmik0070/Global-Supermarket/master/Images/Backend%20Jsonify.png)
-
+<!-- ![APIsBackend Jsonify](https://raw.githubusercontent.com/dharmik0070/Global-Supermarket/master/Images/Backend%20Jsonify.png) -->
+<img src="https://raw.githubusercontent.com/dharmik0070/Global-Supermarket/master/Images/Backend%20Jsonify.png" alt="" width="100%" height="180">
 ### Step 5:
 - Configured ***APIs*** communication in frontend using *Javascript* from Step 3.
 
@@ -212,7 +214,9 @@ In this page, overall order details is shown to the Owner.
 ### Step 7:
 - Tested each functionality thoroughly.
 - Solved minor bugs (as most of them solved while developing).
+
 <br>
+
 ## Challenges Faced
 
 >It was great challenge for me to develop a ***Full-Stack*** application.But apart from it, there were many challenges I faced and it was really new learning, as I was new to some topics.
@@ -233,6 +237,7 @@ In this page, overall order details is shown to the Owner.
 ## Contact
 
 <b>Dharmik Shah</b> 
+<br>
 E-mail: [dharmik0070@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=dharmik0070@gmail.com)
 <br>
 Project Link: [https://github.com/dharmik0070/Global-Supermarket](https://github.com/dharmik0070/Global-Supermarket)
