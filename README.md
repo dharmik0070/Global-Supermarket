@@ -121,8 +121,8 @@ In this page, overall order details is shown to the Owner.
 
 ![Manage Products Page](https://raw.githubusercontent.com/dharmik0070/Global-Supermarket/master/Images/Gifs/Add%20Button.gif)
 
-- On this page, on top-right page, there is <b>*Add New Product*</b>, which allows one to add new products.
-- By clicking it, one pop-up box it will be displayed.
+- On this page, on top-right, there is <b>*Add New Product*</b> button, which allows one to add new product.
+- By clicking it, one pop-up box will be displayed.
   ### 3.1 Add New Product
 - In this box, one have to enter the product details like name, unit and price.
   - Name should be `text` only.
@@ -150,13 +150,13 @@ In this page, overall order details is shown to the Owner.
 
 ![Edit Button](https://raw.githubusercontent.com/dharmik0070/Global-Supermarket/master/Images/Gifs/Edit%20Button.gif)
 
-- On this page, one can place the orders.
 ## 4. <u>Place Order Page</u>
 
+- On this page, one can place the orders.
 <br>
 
 ![New Order](https://raw.githubusercontent.com/dharmik0070/Global-Supermarket/master/Images/Gifs/New%20Order%20Button.gif)
-- On this page, you have mandatorily enter the *Customer's Name* in `text` to place an order.
+- On this page, you have to mandatorily enter the *Customer's Name* in `text` to place an order.
     ### 4.1 Add more button
 - To order an item, click on <b>*Add More*</b> button and fill the required details.
   - Select an item from the `Dropdown` mandatorily.
@@ -173,8 +173,8 @@ In this page, overall order details is shown to the Owner.
 
 ## Navigation
 - To navigate between different pages,
-  - Click Pages name in navigation bar on the top of every page.
-  - To visit *Home Page*, click on the logo *Global Supermarket*.
+  - Click the Pages name in navigation bar on the top of every page.
+  - To visit the *Home Page*, click on the logo *Global Supermarket*.
 <br>
 
 ![Navigation](https://raw.githubusercontent.com/dharmik0070/Global-Supermarket/master/Images/Gifs/Navigation.gif)
@@ -200,7 +200,7 @@ In this page, overall order details is shown to the Owner.
 - Continued Step 2 backend development and started building ***APIs*** of each seperate functionalities.
 
 <!-- ![APIsBackend Jsonify](https://raw.githubusercontent.com/dharmik0070/Global-Supermarket/master/Images/Backend%20Jsonify.png) -->
-<img src="https://raw.githubusercontent.com/dharmik0070/Global-Supermarket/master/Images/Backend%20Jsonify.png" alt="" width="100%" height="180">
+<img src="https://raw.githubusercontent.com/dharmik0070/Global-Supermarket/master/Images/Backend%20Jsonify.png" alt="" width="100%" height="150">
 
 
 ### Step 5:
@@ -221,11 +221,11 @@ In this page, overall order details is shown to the Owner.
 
 ## Challenges Faced
 
->It was great challenge for me to develop a ***Full-Stack*** application.But apart from it, there were many challenges I faced and it was really new learning, as I was new to some topics.
+>It was great challenge for me to develop a ***Full-Stack*** application. But apart from it, there were many challenges I faced and it was really new learning, as I was new to some topics.
 - <b>Database</b>
   - Like many developers, initially I faced issues in constraint management, like setting up foriegn keys in many-to-many relationship.
 - <b>Backend</b>
-  - Faced issue in configuring ***Edit*** button, where I'd to work with fetching and posting data at same time, in *Manage Product Page*. (Backend development was quite strong compare to frontend devlopment)
+  - Faced issue in configuring ***Edit*** button, where I'd to work with fetching and posting data at same time, in *Manage Product Page*. (Backend development was quite strong compare to frontend development)
 - <b>Frontend</b>
   - As I know *jQuery* a bit during developing this project, faced issues to configure button with some ***APIs*** and calling the same.
   - Also initially faced an issue in <b>jsonifying</b> frontend data to be send.
@@ -233,7 +233,7 @@ In this page, overall order details is shown to the Owner.
   - I have ***not focused on UI part much***, but faced minor issues in margin-padding like usual.
 <br>
 
-> But it was great brain-stroming and new learning to solve each issue thoroughly, it has really boosted my confidence.
+> But it was great brain-storming and new learning to solve each issue thoroughly, it has really boosted my confidence.
 <!-- CONTACT -->
 ## Contact
 
