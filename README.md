@@ -247,6 +247,6 @@ Project Link: [https://github.com/dharmik0070/Global-Supermarket](https://github
 
 # View Demo
 
-![View Demo](https://raw.githubusercontent.com/dharmik0070/Global-Supermarket/master/Images/View%20Demo.png)
+![View Demo](https://raw.githubusercontent.com/dharmik0070/Global-Supermarket/master/Images/View%20Demo.gif)
 <br>
 
